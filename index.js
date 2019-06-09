@@ -23,7 +23,7 @@ function sayHiToGrandma(string) {
         return 'I can\'t hear you!'
       }
       else if (string === uppercase) {
-        return "I love you, too."
+        return "YES INDEED!"
       }
   
 }
